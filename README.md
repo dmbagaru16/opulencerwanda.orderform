@@ -5,4 +5,5 @@ We utilize HTML for the structure, CSS for styling, JavaScript for interactivity
 
 If you need this completed WhatsApp ordering system form which is customized as the way you want. So , contact, text, or call me via WhatsApp number (+250785170726) or via email: rugambadavid3@gmail.com.
 ![fol-1](https://github.com/dmbagaru16/opulencerwanda.orderform/assets/95981004/43e6031d-707b-48d3-bb5e-1501028f4cdf)
+
 ![fol-2](https://github.com/dmbagaru16/opulencerwanda.orderform/assets/95981004/d5f42161-570d-4d9b-ac4b-459ab37a05d3)
